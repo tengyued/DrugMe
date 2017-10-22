@@ -1,0 +1,13 @@
+<widget id="A6057608482262"  version="0.0.1">
+    <name>HRSmartRobot</name>
+    <description>
+        ApiCloud Robot App
+    </description>
+    <author email="tengyued@gmail.com">
+        Alex(Yue) Teng
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="windowBackground" value="#FFF" />
+    <permission name="record internet" />
+</widget>

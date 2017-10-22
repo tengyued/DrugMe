@@ -1,0 +1,13 @@
+<widget id="A6053192096751"  version="0.0.1">
+    <name>DrugMe</name>
+    <description>
+        DrugMe
+    </description>
+    <author email="tengyued@gmail.com">
+        Alex(Yue) Teng
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="windowBackground" value="#FFF" />
+    <permission name="record internet" />
+</widget>
